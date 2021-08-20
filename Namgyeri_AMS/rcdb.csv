@@ -1,0 +1,21 @@
+﻿id,Name,State,City,Site,Material,Weight_g,Laboratory,LabID,Age_BP,Error,Report
+813,연천 남계리 MRR2013-1(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0.0041,서울대학교 기초과학공동기기원,SNU14-R007,1840,50,연천 남계리 유적
+814,연천 남계리 MRR2013-3(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0.003,서울대학교 기초과학공동기기원,SNU14-R008,1840,50,연천 남계리 유적
+815,연천 남계리 MRR2013-2(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0.0038,서울대학교 기초과학공동기기원,SNU14-R015,1860,40,연천 남계리 유적
+816,연천 남계리 MRR2013-4(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0.0028,서울대학교 기초과학공동기기원,SNU14-R016,2170,60,연천 남계리 유적
+820,Beta-373370(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0,Beta Analytic,Beta-373370,1710,30,연천 남계리 유적
+821,Beta-373371(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0,Beta Analytic,Beta-373371,1780,30,연천 남계리 유적
+822,Beta-376832(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0,Beta Analytic,Beta-376832,1910,30,연천 남계리 유적
+823,Beta-376833(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0,Beta Analytic,Beta-376833,1800,30,연천 남계리 유적
+828,MRR2013-49(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0,The Prairie Research Institute at the University of Illinois,A3020,1860,25,연천 남계리 유적
+829,MRR2013-51(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0,The Prairie Research Institute at the University of Illinois,A3021,1910,25,연천 남계리 유적
+832,MRR2013-50(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0,The Prairie Research Institute at the University of Illinois,A3095,1850,15,연천 남계리 유적
+833,MRR2013-52(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0,The Prairie Research Institute at the University of Illinois,A3096,1870,15,연천 남계리 유적
+836,MRR2013-33(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0.0776,PaleoLabo,PLD-26165,1900,20,연천 남계리 유적
+837,MRR2013-35(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0.045,PaleoLabo,PLD-26166,1875,20,연천 남계리 유적
+840,MRR2013-34(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0.0156,PaleoLabo,PLD-26390,1865,20,연천 남계리 유적
+841,MRR2013-36(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0.0125,PaleoLabo,PLD-26391,1865,20,연천 남계리 유적
+844,MRR2013-67(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0,14Chrono Centre at Queen's University Belfast,UBA-25498,1868,38,연천 남계리 유적
+845,MRR2013-68(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0,14Chrono Centre at Queen's University Belfast,UBA-25499,1866,37,연천 남계리 유적
+846,MRR2013-69(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0,14Chrono Centre at Queen's University Belfast,UBA-25500,1882,37,연천 남계리 유적
+847,MRR2013-70(연천1),경기도,연천군,남계리 유적 3호 주거지,탄화목,0,14Chrono Centre at Queen's University Belfast,UBA-25501,1907,37,연천 남계리 유적
