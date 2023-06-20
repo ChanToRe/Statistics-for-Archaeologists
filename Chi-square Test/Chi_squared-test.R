@@ -1,4 +1,4 @@
-test = read.csv("/Users/jch/Documents/github/Project/archaeology_and_ statics/Chi_squared_Test.csv") #분석할 데이터를 불러옴
+test = read.csv("/Users/jch/Documents/github/Statistics-for-Archaeologists/Chi_squared_Test.csv") #분석할 데이터를 불러옴
 
 test$RorL = as.factor(test$RorL) #factor형으로 변경
 test$Sex = as.factor(test$Sex) #factor형으로 변경
